@@ -1,2 +1,2 @@
 # employees-workflow
-Back y base de datos de la aplicacion
+Back y base de datos postgres de la aplicacion
